@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCardboardMars.CSharp", "GoogleCardboardMars.CSharp.csproj", "{DEF7D6DC-CA5A-D0EF-F0B3-BBD087377D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCardboardMars.CSharp.Editor", "GoogleCardboardMars.CSharp.Editor.csproj", "{FDCF0166-3EEF-2C39-E628-AEC60820E9D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF7D6DC-CA5A-D0EF-F0B3-BBD087377D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF7D6DC-CA5A-D0EF-F0B3-BBD087377D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF7D6DC-CA5A-D0EF-F0B3-BBD087377D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF7D6DC-CA5A-D0EF-F0B3-BBD087377D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCF0166-3EEF-2C39-E628-AEC60820E9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCF0166-3EEF-2C39-E628-AEC60820E9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCF0166-3EEF-2C39-E628-AEC60820E9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCF0166-3EEF-2C39-E628-AEC60820E9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
