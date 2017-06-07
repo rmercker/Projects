@@ -1,3 +1,5 @@
 # Projects
 
-Projects done through Data Structures, Software engineering, Programming Fundamentals 1 & 2, and Individual Projects
+Projects done through Data Structures, Programming Fundamentals 2, and Individual Projects
+
+Software Engineering Project is located in TigerIland Repository
